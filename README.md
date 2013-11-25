@@ -5,4 +5,4 @@ Simple program that converts letters entered at the command line to the corrospo
 
 The output looks like:
 
-![output]{output.png}
+![Output screen shot](output.png)
